@@ -1,0 +1,6 @@
+﻿  Spiel.cpp
+C:\Users\cjmed\OneDrive - HTL Braunau\Desktop\VC Programmes\ASCII_GAME\Spiel\Spiel\Spiel.cpp(96,9): warning C4101: "i": Unreferenzierte lokale Variable
+C:\Users\cjmed\OneDrive - HTL Braunau\Desktop\VC Programmes\ASCII_GAME\Spiel\Spiel\Spiel.cpp(1738,13): warning C4101: "i": Unreferenzierte lokale Variable
+C:\Users\cjmed\OneDrive - HTL Braunau\Desktop\VC Programmes\ASCII_GAME\Spiel\Spiel\Spiel.cpp(2354,9): warning C4101: "i": Unreferenzierte lokale Variable
+C:\Users\cjmed\OneDrive - HTL Braunau\Desktop\VC Programmes\ASCII_GAME\Spiel\Spiel\Spiel.cpp(2350,1): warning C4715: "Borders": Nicht alle Codepfade geben einen Wert zurück.
+  Spiel.vcxproj -> C:\Users\cjmed\OneDrive - HTL Braunau\Desktop\VC Programmes\ASCII_GAME\Spiel\x64\Debug\Spiel.exe
